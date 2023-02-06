@@ -8,4 +8,4 @@ Track: Today I will learn about VS Code and how to create Markdown file in VS Co
 
 Assist: Today I will host session on Facebook and WhatsApp and read Essential Training Guide and I will also talk with Muslim to join our Facebook group and I will gave him link so he can join, and I will also join meeting with Mr. Hackney.
 
-Reach:  Today I will learn about VS Code and I will host session on Facebook group and I will host session on WhatsApp group and I will also read Essential Training Guide and I will join meeting with Mr. Hackney and he told me areAI company and he said the people we are going to hire we will tell them we are AI company we will tell them which kind of Apps we built. 
+Reach:  Today I will learn about VS Code and I will host session on Facebook group and I will host session on WhatsApp group and I will also read Essential Training Guide and I will join meeting with Mr. Hackney and he told me on Friday we are AI company and he said that people we are going to hire we will tell them we are AI company we will tell them which kind of Apps we built. 
