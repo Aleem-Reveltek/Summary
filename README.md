@@ -2,10 +2,10 @@
 
 SMART STAR:
 
-Space: Today I will teach Fajar about SMART STAR, and I will teach her about 5 Ws and 5 whys and I will teach Lema about how to create meeting and I will teach her how to share screen.
+Space: Today, I'll teach Fajar about the SMART STAR, the 5 Ws, and the 5 Whys. I'll also show Lema how to set up meetings and how to share a screen.
 
-Track: Today I will learn about VS Code and how to create Markdown file in VS Code and save and how to upload on GitHub and will I also learn about upload image on GitHub, and will I also learn more about ORBITAL by reading Essential Training Guide.
+Track: Today I'll learn about VS Code, how to create a Markdown file in VS Code, save it, and submit it to GitHub. I'll also learn about uploading images to GitHub, and I'll read the Essential Training Guide to learn more about ORBITAL.
 
-Assist: Today I will host session on Facebook and WhatsApp and read Essential Training Guide and I will also talk with Muslim to join our Facebook group and I will gave him link so he can join, and I will also join meeting with Mr. Hackney.
+Assist: Today, I'll organise sessions on Facebook and WhatsApp, study the Essential Training Guide, and chat to Muslim about joining our Facebook group. I'll also participate in the meeting with Mr. Hackney.
 
-Reach:  Today I will learn about VS Code and I will host session on Facebook group and I will host session on WhatsApp group and I will also read Essential Training Guide and I will join meeting with Mr. Hackney and he told me on Friday we are AI company and he said that people we are going to hire we will tell them we are AI company we will tell them which kind of Apps we built. 
+Reach: Today I will read the Essential Training Guide, host a session on Facebook and WhatsApp groups, learn about VS Code, and attend a meeting with Mr. Hackney. He informed me on Friday that we are an AI company and that when we hire new employees, we will inform them of this fact and the types of apps we have developed.
