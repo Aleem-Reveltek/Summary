@@ -24,7 +24,7 @@ In Assist, we discuss how we can work on this project, so I tell them we are goi
 
 **Reach**
 
-In Reach finally we research for navigation bar and we all communicate on that issue and we see that is character count same but character count was not matching so we use Open AI and we find alternative words like by using chat.GPT we get word like Agile organization to Agile org and we did our best in this project and after we get perfect character count we create smart commit and to day I join meeting with company owner and we learn about new STAR method and we also learn about how to create mermaid file and I just learn it and I make an impact on the company by implementing on my SMART STAR.
+In Reach finally we research for navigation bar and we all communicate on that issue and we see that is character count same but character count was not matching so we use Open AI and we find alternative words like by using chat.GPT we get word like Agile organization to Agile org and we did our best in this project and after we get perfect character count we create smart commit and to day I join meeting with company owner and we learn about new STAR method and we also learn about how to create mermaid file and I just learn it and I make an impact on company by implementing on my SMART STAR.
 
 ```mermaid
 pie
