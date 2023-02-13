@@ -34,3 +34,22 @@ pie
 ```
 
 ---
+
+SMART STAR:
+
+Space:
+ 
+•	Hi, everyone! Today, I'm going to manage my team on the Reveltek website. We will work on milestones and make smart commits. Additionally, I will research how to manage projects, since I have not done so before. I will save my notes in a Markdown file.
+ 
+Track:
+ 
+•	I will start by managing the team on the Realtek website. This includes assigning tasks, providing feedback, and setting deadlines. After that, I will work on milestone completion and do smart commits. After that, I will research project management and save my notes in a Markdown file. Lastly, I will provide training to my team on how to do smart commits on GitHub.
+ 
+Assist:
+ 
+•	In addition to coordinating on GitHub comments and using the Teams app, I will do research about project by looking at websites like Apple and McKinsey. This will help to understand the best practices for project management and how to utilize advanced tools and techniques. Additionally, I will use the Teams app to stay organized and monitor the progress of tasks.
+ 
+Reach: 
+ 
+•	By following the steps outlined in the project management roadmap, I will be able to ensure that the project is completed on time and with high quality. Additionally, my team and I will be able to deliver innovative solutions, utilize advanced tools and techniques, and provide a user-friendly experience. 
+
