@@ -53,3 +53,22 @@ pie
  
 - By following the steps outlined in the project management roadmap, I will be able to ensure that the project is completed on time and with high quality.               Additionally, my team and I will be able to deliver innovative solutions, utilize advanced tools and techniques, and provide a user-friendly experience. 
 
+---
+
+```mermaid
+pie
+" Fifty" : 50
+"Learn about STAR Method" : 30
+"Teaching STAR Method" : 20
+```
+Rev
+
+The Space Reveltek is a small company, but the method we use can make us top best company in the world, so why does our method make us the best company in the world because the method we use is also used by the top 10 best companies that use it
+**Space**
+person 
+placee 
+thing
+**Track**
+past 
+present 
+futhure
