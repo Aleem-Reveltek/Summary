@@ -72,3 +72,14 @@ Rev
 - past 
 - present 
 - futhure
+
+---
+
+Space: Today our company host tits bit Tuesday meeting and the agenda of that meeting how to become a better thief and the title meaning is Thief in training so we research on how we can become better thief.
+
+Track: Thief in training meeting we learn about history learn history about Thomas Addison and Nikola Tesla and Right brother and Grimm brother’s history and also we read history of Disney how these people become successful in their life. 
+
+Assist: In the assist part research we see how Thomas Addison steal idea of Nikola Tesla, and how Disney steal information from Grimm brothers and how Right brother steal idea of Indian guy and how they implement those ideas in their life, and become senseful.
+
+Reach: In the reach I just understand Nikola Tesla and the Indian guy who did all effort for helicopter and Grimm brothers they all are not successful people but the successful people was is Thomas Addison and Disney and Right brothers they are real thief and they are successful people.
+
