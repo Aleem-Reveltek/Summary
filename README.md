@@ -53,13 +53,6 @@ pie
  
 - By following the steps outlined in the project management roadmap, I will be able to ensure that the project is completed on time and with high quality.               Additionally, my team and I will be able to deliver innovative solutions, utilize advanced tools and techniques, and provide a user-friendly experience. 
 
----
-
-```mermaid
-pie
-" Fifty" : 50
-"Learn about STAR Method" : 30
-"Teaching STAR Method" : 20
 
 ---
 
