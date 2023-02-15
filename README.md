@@ -83,3 +83,5 @@ Assist: In the assist part research we see how Thomas Addison steal idea of Niko
 
 Reach: In the reach I just understand Nikola Tesla and the Indian guy who did all effort for helicopter and Grimm brothers they all are not successful people but the successful people was is Thomas Addison and Disney and Right brothers they are real thief and they are successful people.
 
+---
+
