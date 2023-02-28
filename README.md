@@ -75,6 +75,6 @@ Track: The project roadmap is to work on the Reveltek website, which is a tech c
 Assist: Today, I will be managing my team on the Reveltek website project. Our focus will be on achieving our milestones, and we will be using smart commits to track our progress. Additionally, we will be conducting research to inform our work on the project.
 
 Reach: The company Reveltek believes that their method can make them one of the top companies in the world. Their confidence is since they use the same method as the top 10 best companies in the world, implying that this method has been proven successful. Despite being a small company, Reveltek hopes to achieve great success by following this tried-and-tested method.
-
+p
 
   
