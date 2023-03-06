@@ -10,7 +10,7 @@ Today my focus on managing the team and improving communication skill and learni
 
 **SMART STAR** 
 
-**Space:**
+**Space**
 
 Hey, everyone today is end of the week and since few days ago company owner give me premotion and he assign me as Project manager and he said to pic the any task so you can work on it so I pic Reveltek website so and I told him I will work on this project. Then I talk to my team and I tell them to work on the project and today I host session and we talk about this project and I teach new people how to create smart commit on GitHub and we research on the company like Mckinsey and we see top 10, tech consulting company's and we research on AI company's, because Reveltek is tech company also we are an AI company and we build so many robots and we are consultant agency so we research accordingly and my next task was to teach RDP and KVM and I teach RDP and I also give STAR training on Facebook and WhatsApp.
 
