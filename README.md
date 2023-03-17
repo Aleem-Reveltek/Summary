@@ -79,6 +79,10 @@ p
 
 ---
 
+## Summary
+
 I have spent a significant amount of time teaching others how to effectively use Figma, a design tool utilized for creating various graphic designs, including user interfaces and icons.
 
 Furthermore, I have gained valuable experience through my work on DROIDS, where I recently created a map and learned how to efficiently resize photos. During a Thursday Thivery meeting, I created a detailed agenda on DROIDS and actively sought feedback and suggestions from my colleagues, resulting in a collaborative effort to improve our work.
+
+- I Created milestones on GitHub: What I'm going to do in future I created 6 milestones.
