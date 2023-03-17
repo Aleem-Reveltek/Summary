@@ -77,4 +77,8 @@ Assist: Today, I will be managing my team on the Reveltek website project. Our f
 Reach: The company Reveltek believes that their method can make them one of the top companies in the world. Their confidence is since they use the same method as the top 10 best companies in the world, implying that this method has been proven successful. Despite being a small company, Reveltek hopes to achieve great success by following this tried-and-tested method.
 p
 
-  
+---
+
+I have spent a significant amount of time teaching others how to effectively use Figma, a design tool utilized for creating various graphic designs, including user interfaces and icons.
+
+Furthermore, I have gained valuable experience through my work on DROIDS, where I recently created a map and learned how to efficiently resize photos. During a Thursday Thivery meeting, I created a detailed agenda on DROIDS and actively sought feedback and suggestions from my colleagues, resulting in a collaborative effort to improve our work.
