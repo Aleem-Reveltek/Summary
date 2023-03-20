@@ -94,3 +94,11 @@ Furthermore, I have gained valuable experience through my work on DROIDS, where 
 Friday-17-2023
 
 This process outlines the steps necessary for the company to effectively rehire current employees in order to provide them with additional training and skills to help the organization grow. It includes reviewing applications, making job offers, coaching new hires, teaching them the necessary knowledge, monitoring their progress and development, adjusting training programs as needed, and evaluating and revising the training. By following these steps, the company can ensure that its current employees have the opportunity to gain the skills and knowledge they need to succeed.
+
+---
+
+# Summary
+
+Monday, March, 20 2023.
+
+This Low Code Training guide provides an overview of the fundamentals of the platforms and how to work with them. It covers topics such as setting up and accessing each platform, working with documents and spreadsheets, creating and managing content and applications, and understanding best practices for security, performance, and compliance. The guide is tailored to the specific needs of the company and its employees, so they can make the most effective use of these platforms.
