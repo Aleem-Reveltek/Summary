@@ -102,3 +102,11 @@ This process outlines the steps necessary for the company to effectively rehire 
 Monday, March, 20 2023.
 
 This Low Code Training guide provides an overview of the fundamentals of the platforms and how to work with them. It covers topics such as setting up and accessing each platform, working with documents and spreadsheets, creating and managing content and applications, and understanding best practices for security, performance, and compliance. The guide is tailored to the specific needs of the company and its employees, so they can make the most effective use of these platforms.
+
+---
+
+# Summary 
+
+Tuesday, March 21 2023
+
+The DROID project is focused on providing low code training to employees of a company to help them understand various platforms such as Word 365, Excel 365, SharePoint Lists, PowerApps, Logic Apps, and Zapio. The training will cover a range of topics and will be delivered in a structured format that is tailored to the specific needs of the company and its employees. By providing employees with a comprehensive understanding of these platforms, the training will enable them to create, deploy, and manage applications using the platforms effectively. The project involves creating a training plan, identifying the necessary resources, creating the training curriculum and materials, and scheduling and delivering the training to the employees. The aim of the project is to improve employee productivity and achieve better outcomes for the company.
