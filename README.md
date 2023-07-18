@@ -26,10 +26,41 @@ In Assist, we discuss how we can work on this project, so I tell them we are goi
 In Reach finally we research for navigation bar and we all communicate on that issue and we see that is character count same but character count was not matching so we use Open AI and we find alternative words like by using chat.GPT we get word like Agile organization to Agile org and we did our best in this project and after we get perfect character count we create smart commit and to day I join meeting with company owner and we learn about new STAR method and we also learn about how to create mermaid file and I just learn it and I make an impact on company by implementing on my SMART STAR.
 
 ```mermaid
-pie
-"Researching on Reveltek website" : 50
-"Learn about STAR Method" : 30
-"Teaching STAR Method" : 20
+
+graph TD
+
+  subgraph "Enterprise" 
+    a1[Person 1] 
+    a2[Person 2]
+    a3[Person 3]
+  end
+  
+  subgraph "System" 
+    b1[Web Application]
+    b2[Database]
+  end
+
+  subgraph "Container" 
+    c1[API Layer]
+    c2[Business Logic]
+    c3[Data Storage]
+  end
+  
+  subgraph "Component" 
+    d1[Component 1]
+    d2[Component 2]
+    d3[Component 3]
+  end
+  
+  a1 --> a2 --> a3
+  a3 --> b1
+  b1 --> c1
+  b1 --> c2
+  c2 --> d1
+  c2 --> d2
+  c3 --> d3
+  b2 --> c3
+
 ```
 
 ---
